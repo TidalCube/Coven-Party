@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_Background","order":3,"path":"sprites/spr_Background/spr_Background.yy",},
     {"name":"spr_TileSet1","order":2,"path":"sprites/spr_TileSet1/spr_TileSet1.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"spr_Wall","order":4,"path":"sprites/spr_Wall/spr_Wall.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"spr_Player_Idle","order":1,"path":"sprites/spr_Player_Idle/spr_Player_Idle.yy",},

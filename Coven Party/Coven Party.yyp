@@ -31,9 +31,10 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"spr_Background","path":"sprites/spr_Background/spr_Background.yy",},},
     {"id":{"name":"spr_TileSet1","path":"sprites/spr_TileSet1/spr_TileSet1.yy",},},
@@ -43,6 +44,7 @@
     {"id":{"name":"spr_Wall","path":"sprites/spr_Wall/spr_Wall.yy",},},
     {"id":{"name":"TS_Ground","path":"tilesets/TS_Ground/TS_Ground.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"obj_Africa_NPC_idle","path":"objects/obj_Africa_NPC_idle/obj_Africa_NPC_idle.yy",},},
     {"id":{"name":"spr_Player_Idle","path":"sprites/spr_Player_Idle/spr_Player_Idle.yy",},},
     {"id":{"name":"obj_Water","path":"objects/obj_Water/obj_Water.yy",},},
     {"id":{"name":"obj_Camera","path":"objects/obj_Camera/obj_Camera.yy",},},

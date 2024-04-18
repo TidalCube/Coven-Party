@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -16,17 +16,18 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"spr_Background","order":3,"path":"sprites/spr_Background/spr_Background.yy",},
-    {"name":"spr_TileSet1","order":2,"path":"sprites/spr_TileSet1/spr_TileSet1.yy",},
-    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
-    {"name":"test","order":4,"path":"objects/test/test.yy",},
-    {"name":"spr_Wall","order":4,"path":"sprites/spr_Wall/spr_Wall.yy",},
-    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
-    {"name":"spr_Player_Idle","order":1,"path":"sprites/spr_Player_Idle/spr_Player_Idle.yy",},
-    {"name":"obj_Water","order":3,"path":"objects/obj_Water/obj_Water.yy",},
+  "ResourceOrderSettings":[
     {"name":"obj_Camera","order":2,"path":"objects/obj_Camera/obj_Camera.yy",},
-    {"name":"spr_Water","order":6,"path":"sprites/spr_Water/spr_Water.yy",},
+    {"name":"obj_Water","order":3,"path":"objects/obj_Water/obj_Water.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"test","order":4,"path":"objects/test/test.yy",},
+    {"name":"spr_Background","order":3,"path":"sprites/spr_Background/spr_Background.yy",},
+    {"name":"spr_Player_Idle","order":1,"path":"sprites/spr_Player_Idle/spr_Player_Idle.yy",},
     {"name":"spr_Player_Jump","order":5,"path":"sprites/spr_Player_Jump/spr_Player_Jump.yy",},
+    {"name":"spr_TileSet1","order":2,"path":"sprites/spr_TileSet1/spr_TileSet1.yy",},
+    {"name":"spr_Wall","order":4,"path":"sprites/spr_Wall/spr_Wall.yy",},
+    {"name":"spr_Water","order":6,"path":"sprites/spr_Water/spr_Water.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"Sprite9","order":5,"path":"sprites/Sprite9/Sprite9.yy",},
   ],
 }

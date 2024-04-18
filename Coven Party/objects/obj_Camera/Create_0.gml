@@ -1,4 +1,4 @@
-wCam = 640;
-hCam = 360;
+wCam = 225;
+hCam = 125;
 
 window_set_fullscreen(true);

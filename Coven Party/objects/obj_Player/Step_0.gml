@@ -20,7 +20,7 @@ if (onTheGround)
 
 	if (jump) 
 	{
-		ySpeed = -12;
+		ySpeed = -10;
 	}
 } 
 else 

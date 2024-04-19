@@ -21,7 +21,6 @@
     {"name":"obj_Water","order":3,"path":"objects/obj_Water/obj_Water.yy",},
     {"name":"obj_keyA","order":6,"path":"objects/obj_keyA/obj_keyA.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
-    {"name":"test","order":4,"path":"objects/test/test.yy",},
     {"name":"spr_Background","order":3,"path":"sprites/spr_Background/spr_Background.yy",},
     {"name":"spr_keyA","order":8,"path":"sprites/spr_keyA/spr_keyA.yy",},
     {"name":"spr_Player_Idle","order":1,"path":"sprites/spr_Player_Idle/spr_Player_Idle.yy",},
@@ -29,6 +28,5 @@
     {"name":"spr_TileSet1","order":2,"path":"sprites/spr_TileSet1/spr_TileSet1.yy",},
     {"name":"spr_Wall","order":4,"path":"sprites/spr_Wall/spr_Wall.yy",},
     {"name":"spr_Water","order":6,"path":"sprites/spr_Water/spr_Water.yy",},
-    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
   ],
 }

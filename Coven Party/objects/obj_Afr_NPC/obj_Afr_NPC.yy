@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Afr_NPC",
-    "path": "sprites/spr_Afr_NPC/spr_Afr_NPC.yy",
+    "name": "spr_Afr_Idle",
+    "path": "sprites/spr_Afr_Idle/spr_Afr_Idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

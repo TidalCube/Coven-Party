@@ -40,7 +40,6 @@
     {"id":{"name":"spr_Background","path":"sprites/spr_Background/spr_Background.yy",},},
     {"id":{"name":"spr_TileSet1","path":"sprites/spr_TileSet1/spr_TileSet1.yy",},},
     {"id":{"name":"spr_Player_Walking","path":"sprites/spr_Player_Walking/spr_Player_Walking.yy",},},
-    {"id":{"name":"spr_Afr_NPC","path":"sprites/spr_Afr_NPC/spr_Afr_NPC.yy",},},
     {"id":{"name":"spr_Wall","path":"sprites/spr_Wall/spr_Wall.yy",},},
     {"id":{"name":"TS_Ground","path":"tilesets/TS_Ground/TS_Ground.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},

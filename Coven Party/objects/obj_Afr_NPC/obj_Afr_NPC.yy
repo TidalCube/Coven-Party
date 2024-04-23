@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Water",
+  "name": "obj_Afr_NPC",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Water",
-    "path": "sprites/spr_Water/spr_Water.yy",
+    "name": "spr_Afr_Idle",
+    "path": "sprites/spr_Afr_Idle/spr_Afr_Idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

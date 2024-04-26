@@ -19,9 +19,9 @@
   "ResourceOrderSettings":[
     {"name":"obj_Afr_NPC","order":5,"path":"objects/obj_Afr_NPC/obj_Afr_NPC.yy",},
     {"name":"obj_Camera","order":2,"path":"objects/obj_Camera/obj_Camera.yy",},
+    {"name":"obj_dialog","order":7,"path":"objects/obj_dialog/obj_dialog.yy",},
     {"name":"obj_Goose","order":6,"path":"objects/obj_Goose/obj_Goose.yy",},
     {"name":"obj_Water","order":3,"path":"objects/obj_Water/obj_Water.yy",},
-    {"name":"obj_dialog","order":7,"path":"objects/obj_dialog/obj_dialog.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"spr_Afr_Idle","order":11,"path":"sprites/spr_Afr_Idle/spr_Afr_Idle.yy",},
     {"name":"spr_Background","order":3,"path":"sprites/spr_Background/spr_Background.yy",},

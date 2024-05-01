@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_textbox","order":20,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"spr_Goose_Jumping","order":9,"path":"sprites/spr_Goose_Jumping/spr_Goose_Jumping.yy",},
     {"name":"spr_Afr_Idle","order":11,"path":"sprites/spr_Afr_Idle/spr_Afr_Idle.yy",},
     {"name":"spr_Background","order":3,"path":"sprites/spr_Background/spr_Background.yy",},
@@ -41,6 +42,7 @@
     {"name":"obj_Camera","order":2,"path":"objects/obj_Camera/obj_Camera.yy",},
     {"name":"spr_Water","order":6,"path":"sprites/spr_Water/spr_Water.yy",},
     {"name":"spr_Goose_Walking","order":8,"path":"sprites/spr_Goose_Walking/spr_Goose_Walking.yy",},
+    {"name":"obj_textbox","order":10,"path":"objects/obj_textbox/obj_textbox.yy",},
     {"name":"spr_Player_Jump","order":5,"path":"sprites/spr_Player_Jump/spr_Player_Jump.yy",},
   ],
 }
